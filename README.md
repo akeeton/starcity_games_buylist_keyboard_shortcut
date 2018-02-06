@@ -6,7 +6,7 @@ This is a simple Javascript bookmarklet that makes using the [Star City Games bu
 
 1. Create an empty bookmark and input the following condensed Javascript code as the URL.
 
-    javascript:(function()%7Bdocument.onkeypress %3D function onKeypressGiveSearchBarFocus(event) %7Bvar KEY %3D 96%3B %2F* %60 (backtick) *%2Fif (event.which %3D%3D KEY) %7B%24('%23bl-search-name-text').focus().val('')%3Bevent.preventDefault()%3B%7D%7D%7D)()
+    `javascript:(function()%7Bdocument.onkeypress %3D function onKeypressGiveSearchBarFocus(event) %7Bvar KEY %3D 96%3B %2F* %60 (backtick) *%2Fif (event.which %3D%3D KEY) %7B%24('%23bl-search-name-text').focus().val('')%3Bevent.preventDefault()%3B%7D%7D%7D)()`
     
 2. Go to http://www.starcitygames.com/buylist.
 

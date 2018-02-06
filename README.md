@@ -10,9 +10,11 @@ This is a simple Javascript bookmarklet that makes using the [Star City Games bu
     
 2. Go to http://www.starcitygames.com/buylist.
 
-3. Enter a card name in the "Product Name" search bar.
+3. Click the bookmarklet to activate it.
 
-4. Press the backtick (`)/tilde (~) key to clear the search bar and give it focus.
+4. Enter a card name in the "Product Name" search bar.
+
+5. Press the backtick (`)/tilde (~) key to clear the search bar and give it focus.
 
 ## Javascript source
 
